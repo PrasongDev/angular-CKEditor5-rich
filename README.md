@@ -1,0 +1,1 @@
+# angular-CKEditor5-rich
